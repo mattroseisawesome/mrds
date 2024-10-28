@@ -1,0 +1,877 @@
+[
+    {
+        "id": 0,
+        "category": "Pen & Ink",
+        "folder": "penandink",
+        "description": "",
+        "items":
+        [
+            {
+                "thumbSrc": "/images/penandink/hagia-sophia",
+                "thumbURL": "/img/penandink/hagia-sophia",
+                "desc": "Hagia Sofia, Turkey",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                       "body": "Media: .7mm and .5mm ink pen and Sharpie on 60 lbs drawing paper"
+                    },
+                    {
+                        "body": "Dimensions: 6\"W x 4\"H."
+                    },
+                    {
+                       "body": "Held in private collection."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/pantheon",
+                "thumbURL": "/img/penandink/pantheon",
+                "desc": "Pantheon, France",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .7mm and .5mm ink pen and Sharpie on 60 lbs drawing paper"
+                    },
+                    {
+                        "body": "Dimensions: 6\"W x 4\"H."
+                    },
+                    {
+                        "body": "Held in private collection."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/saint-sulpice",
+                "thumbURL": "/img/penandink/saint-sulpice",
+                "desc": "Saint Sulpice, France",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .7mm and .5mm ink pen and Sharpie on 60 lbs drawing paper"
+                    },
+                    {
+                        "body": "Dimensions: 6\"W x 4\"H."
+                    },
+                    {
+                        "body": "Held in private collection."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/efeses",
+                "thumbURL": "/img/penandink/efeses",
+                "desc": "Efeses, Turkey",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .7mm and .5mm ink pen and Sharpie on 60 lbs drawing paper"
+                    },
+                    {
+                        "body": "Held in private collection."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/michigan-central-station",
+                "thumbURL": "/img/penandink/michigan-central-station",
+                "desc": "Michigan Central Station (Detroit, Mi)",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .7mm and .5mm ink pen and Sharpie on 60 lbs drawing paper"
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/house-in-sunlight-original",
+                "thumbURL": "/img/penandink/house-in-sunlight-original",
+                "desc": "House in Sunlight (Original)",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm ink pen and Sharpie on sketchbook paper."
+                    },
+                    {
+                        "body": "Study of a house in Kalamazoo, Michigan."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/guardian",
+                "thumbURL": "/img/penandink/guardian",
+                "desc": "Guardian",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm ink pen and Sharpie on sketchbook paper."
+                    },
+                    {
+                        "body": "Study of a Guardian Angel bust on a building in Soho, New York City, New York."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/angel-of-grief",
+                "thumbURL": "/img/penandink/angel-of-grief",
+                "desc": "The Angel of Grief",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .7mm and .5mm ink pen and Sharpie on watercolor paper"
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/angel-of-sorrow",
+                "thumbURL": "/img/penandink/angel-of-sorrow",
+                "desc": "The Angel of Sorrow",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body" : "Media: .5mm ink pen and Sharpie on sketchbook paper."
+                    },
+                    {
+                        "body" : "Dimensions: 8\" x 11\"."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/pennance",
+                "thumbURL": "/img/penandink/pennance",
+                "desc": "Pennance",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm & .7mm ink pen and Sharpie on 60 lbs drawing paper."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/grief2",
+                "thumbURL": "/img/penandink/grief2",
+                "desc": "Grief",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm ink pen and Sharpie on 60 lbs drawing paper."
+                    },
+                    {
+                        "body": "Held in private collection."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/pattern",
+                "thumbURL": "/img/penandink/pattern",
+                "desc": "Pattern (1)",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm ink pen and Sharpie on sketchbook paper."
+                    },
+                    {
+                        "body": "Dimensions: 8.5\" x 11\""
+                    },
+                    {
+                        "body": "Was featured as a mural on an apartment building in Hungary."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/pattern2",
+                "thumbURL": "/img/penandink/pattern2",
+                "desc": "Pattern (2)",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm ink pen and Sharpie on sketchbook paper."
+                    },
+                    {
+                        "body": "Dimensions: 8.5\" x 11\""
+                    },
+                    {
+                        "body": "Held in private collection."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/orbs",
+                "thumbURL": "/img/penandink/orbs",
+                "desc": "Orbs",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm ink pen and Sharpie on sketchbook paper."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/halloween-tree",
+                "thumbURL": "/img/penandink/halloween-tree",
+                "desc": "Halloween Tree",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm ink pen and Sharpie on sketchbook paper."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/exsanguinate",
+                "thumbURL": "/img/penandink/exsanguinate",
+                "desc": "Exsanguinate",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm ink pen and Sharpie on sketchbook paper."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/monarch",
+                "thumbURL": "/img/penandink/monarch",
+                "desc": "Monarch study",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm ink pen and Sharpie on sketchbook paper."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/from-the-depths",
+                "thumbURL": "/img/penandink/from-the-depths",
+                "desc": "From the Depths",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm ink pen and Sharpie on sketchbook paper."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/cthulhu",
+                "thumbURL": "/img/penandink/cthulhu",
+                "desc": "Cthulhu",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm ink pen and Sharpie on sketchbook paper."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/katrina",
+                "thumbURL": "/img/penandink/katrina",
+                "desc": "Katrina",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm ink pen and Sharpie on sketchbook paper."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/bird",
+                "thumbURL": "/img/penandink/bird",
+                "desc": "Bird",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm ink pen and Sharpie on sketchbook paper."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/tree2",
+                "thumbURL": "/img/penandink/tree2",
+                "desc": "Tree Study",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm ink pen and Sharpie on sketchbook paper."
+                    },
+                    {
+                        "body": "Tree study of a sycamore tree on the campus of Western Michigan University, Kalamazoo, MI."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/scrapware1",
+                "thumbURL": "/img/penandink/scrapware1",
+                "desc": "Scrapware (1)",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm ink pen and Sharpie on sketchbook paper."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/scrapware2",
+                "thumbURL": "/img/penandink/scrapware2",
+                "desc": "Scrapware (2)",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm ink pen and Sharpie on sketchbook paper."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/scrapware3",
+                "thumbURL": "/img/penandink/scrapware3",
+                "desc": "Scrapware (3)",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm ink pen and Sharpie on sketchbook paper."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/scrapware4",
+                "thumbURL": "/img/penandink/scrapware4",
+                "desc": "Scrapware (4)",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm ink pen and Sharpie on sketchbook paper."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/scrapware5",
+                "thumbURL": "/img/penandink/scrapware5",
+                "desc": "Scrapware (5)",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm ink pen and Sharpie on sketchbook paper."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/scrapware6",
+                "thumbURL": "/img/penandink/scrapware6",
+                "desc": "Scrapware (6)",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm ink pen and Sharpie on sketchbook paper."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/scrapware7",
+                "thumbURL": "/img/penandink/scrapware7",
+                "desc": "Scrapware (7)",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm ink pen and Sharpie on sketchbook paper."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/scrapware9",
+                "thumbURL": "/img/penandink/scrapware9",
+                "desc": "Scrapware (9)",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm ink pen and Sharpie on sketchbook paper."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/scrapware10",
+                "thumbURL": "/img/penandink/scrapware10",
+                "desc": "Scrapware (10)",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm ink pen and Sharpie on sketchbook paper."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/scrapware11",
+                "thumbURL": "/img/penandink/scrapware11",
+                "desc": "Scrapware (11)",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm ink pen and Sharpie on sketchbook paper."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/scrapware12",
+                "thumbURL": "/img/penandink/scrapware12",
+                "desc": "Scrapware (12)",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm ink pen and Sharpie on sketchbook paper."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/scrapware13",
+                "thumbURL": "/img/penandink/scrapware13",
+                "desc": "Scrapware (13)",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm ink pen and Sharpie on sketchbook paper."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/scrapware14",
+                "thumbURL": "/img/penandink/scrapware14",
+                "desc": "Scrapware (14)",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm ink pen and Sharpie on sketchbook paper."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/scrapware16",
+                "thumbURL": "/img/penandink/scrapware16",
+                "desc": "Scrapware (16)",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm ink pen and Sharpie on sketchbook paper."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/penandink/scrapware17",
+                "thumbURL": "/img/penandink/scrapware17",
+                "desc": "Scrapware (17)",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: .5mm ink pen and Sharpie on sketchbook paper."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "category": "Painting",
+        "folder": "painting",
+        "description": "",
+        "items":
+        [
+            {
+                "thumbSrc": "/images/painting/sorrow",
+                "thumbURL": "/img/painting/sorrow",
+                "desc": "Sorrow",
+                "media": "Watercolor",
+                "misc": [
+                    {
+                        "body": "Media: Watercolor on watercolor paper."
+                    },
+                    {
+                        "body": "Dimensions: 24\" x 18\""
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/painting/barber-of-seville",
+                "thumbURL": "/img/painting/barber-of-seville",
+                "desc": "The Barber of Seville",
+                "media": "Watercolor",
+                "misc": [
+                    {
+                        "body": "Media: Watercolor and ink on watercolor paper."
+                    },
+                    {
+                        "body": "Dimensions: 24\" x 18\""
+                    },
+                    {
+                        "body": "A reproduction of the playbill for the Barber of Seville performance at the Detroit Opera House."
+                    },
+                    {
+                        "body": "Held in private collection."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/painting/blue-figure-study",
+                "thumbURL": "/img/painting/blue-figure-study",
+                "desc": "Blue Figure Study (1)",
+                "media": "Watercolor",
+                "misc": [
+                    {
+                        "body": "Media: Watercolor on watercolor paper."
+                    },
+                    {
+                        "body": "Dimensions: 24\" x 18\""
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/painting/blue-figure-study2",
+                "thumbURL": "/img/painting/blue-figure-study2",
+                "desc": "Blue Figure Study (2)",
+                "media": "Watercolor",
+                "misc": [
+                    {
+                        "body": "Media: Watercolor on watercolor paper."
+                    },
+                    {
+                        "body": "Dimensions: 24\" x 18\""
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/painting/green-figure-study",
+                "thumbURL": "/img/painting/green-figure-study",
+                "desc": "Green Figure Study",
+                "media": "Watercolor",
+                "misc": [
+                    {
+                        "body": "Media: Watercolor on watercolor paper."
+                    },
+                    {
+                        "body": "Dimensions: 24\" x 18\""
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/painting/purple-figure-study",
+                "thumbURL": "/img/painting/purple-figure-study",
+                "desc": "Purple Figure Study",
+                "media": "Watercolor",
+                "misc": [
+                    {
+                        "body": "Media: Watercolor on watercolor paper."
+                    },
+                    {
+                        "body": "Dimensions: 24\" x 18\""
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/painting/color-figure-study",
+                "thumbURL": "/img/painting/color-figure-study",
+                "desc": "Color Figure Study",
+                "media": "Watercolor",
+                "misc": [
+                    {
+                        "body": "Media: Watercolor on watercolor paper."
+                    },
+                    {
+                        "body": "Dimensions: 24\" x 18\""
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/painting/figure-study-mixed-media",
+                "thumbURL": "/img/painting/figure-study-mixed-media",
+                "desc": "Mixed Media Figure Study",
+                "media": "Watercolor",
+                "misc": [
+                    {
+                        "body": "Media: Watercolor, Conte Crayon, Charcoal on watercolor paper."
+                    },
+                    {
+                        "body": "Dimensions: 24\" x 18\""
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/painting/abstract-reflection-study",
+                "thumbURL": "/img/painting/abstract-reflection-study",
+                "desc": "Abstract Reflection Study",
+                "media": "Watercolor",
+                "misc": [
+                    {
+                        "body": "Media: Watercolor on watercolor paper."
+                    },
+                    {
+                        "body": "Dimensions: 24\" x 18\""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "category": "Printmaking",
+        "folder": "printmaking",
+        "description": "",
+        "items":
+        [
+            {
+                "thumbSrc": "/images/printmaking/house-in-sunlight-print",
+                "thumbURL": "/img/printmaking/house-in-sunlight-print",
+                "desc": "House in Sunlight (print)",
+                "media": "Printmaking",
+                "misc": [
+                    {
+                        "body": "Media: Acid-etched metal plate on printmaking paper."
+                    },
+                    {
+                        "body": "Held in private collection."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/printmaking/internal-structure",
+                "thumbURL": "/img/printmaking/internal-structure",
+                "desc": "Internal Structure",
+                "media": "Printmaking",
+                "misc": [
+                    {
+                        "body": "Media: Etching on metal plate on printmaking paper."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/printmaking/katrina-print",
+                "thumbURL": "/img/printmaking/katrina-print",
+                "desc": "Katrina (print)",
+                "media": "Printmaking",
+                "misc": [
+                    {
+                        "body": "Media: Acid etched metal plate on printmaking paper."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/printmaking/pensive",
+                "thumbURL": "/img/printmaking/pensive",
+                "desc": "Pensive",
+                "media": "Printmaking",
+                "misc": [
+                    {
+                        "body": "Media: Lithograph on printmaking paper."
+                    },
+                    {
+                        "body": "Held in private collection."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/printmaking/brutality",
+                "thumbURL": "/img/printmaking/brutality",
+                "desc": "Brutality",
+                "media": "Printmaking",
+                "misc": [
+                    {
+                        "body": "Media: Woodblock Print on printmaking paper."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "category": "Drawing",
+        "folder": "drawing",
+        "description": "Drawing (Pencil, Charcoal, Conte crayon",
+        "items":
+        [
+            {
+                "thumbSrc": "/images/drawing/chaotic",
+                "thumbURL": "/img/drawing/chaotic",
+                "desc": "Chaotic",
+                "media": "Drawing",
+                "misc": [
+                    {
+                        "body": "Media: Conte Crayon, charcoal, and charcoal pencil on drawing paper."
+                    },
+                    {
+                        "body": "Dimensions: 19\" x 24\"."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/drawing/recline",
+                "thumbURL": "/img/drawing/recline",
+                "desc": "Recline",
+                "media": "Drawing",
+                "misc": [
+                    {
+                        "body": "Media: Conte Crayon, Charcoal pencil, and pencil on drawing paper."
+                    },
+                    {
+                        "body": "Dimensions: 19\" x 24\"."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/drawing/pregnant-nude",
+                "thumbURL": "/img/drawing/pregnant-nude",
+                "desc": "Pregnant woman figure study",
+                "media": "Drawing",
+                "misc": [
+                    {
+                        "body": "Media: Conte Crayon, charcoal, charcoal pencil, and pencil on drawing paper."
+                    },
+                    {
+                        "body": "Dimensions: 19\" x 24\"."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/drawing/skullstudy",
+                "thumbURL": "/img/drawing/skullstudy",
+                "desc": "Skull Study",
+                "media": "Drawing",
+                "misc": [
+                    {
+                        "body": "Media: Conte Crayon, charcoal, charcoal pencil, and pencil on drawing paper."
+                    },
+                    {
+                        "body": "Held in private collection."
+                    },
+                    {
+                        "body": "Dimensions: 19\" x 24\"."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/drawing/buststudy",
+                "thumbURL": "/img/drawing/buststudy",
+                "desc": "Bust Study",
+                "media": "Drawing",
+                "misc": [
+                    {
+                        "body": "Media: Conte Crayon, charcoal, charcoal pencil, and pencil on drawing paper."
+                    },
+                    {
+                        "body": "Held in private collection."
+                    },
+                    {
+                        "body": "Dimensions: 18\" x 24\"."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/drawing/cubist-nude1",
+                "thumbURL": "/img/drawing/cubist-nude1",
+                "desc": "Cubist Nude (1)",
+                "media": "Drawing",
+                "misc": [
+                    {
+                        "body": "Media: Charcoal, pencil on newsprint."
+                    },
+                    {
+                        "body": "Dimensions: 18\" x 24\"."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/drawing/cubist-nude2",
+                "thumbURL": "/img/drawing/cubist-nude2",
+                "desc": "Cubist Nude (2)",
+                "media": "Drawing",
+                "misc": [
+                    {
+                        "body": "Media: Charcoal, pencil on newsprint."
+                    },
+                    {
+                        "body": "Dimensions: 18\" x 24\"."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/drawing/cubist-nude3",
+                "thumbURL": "/img/drawing/cubist-nude3",
+                "desc": "Cubist Nude (3)",
+                "media": "Drawing",
+                "misc": [
+                    {
+                        "body": "Media: Charcoal, pencil on newsprint."
+                    },
+                    {
+                        "body": "Dimensions: 18\" x 24\"."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/drawing/cubist-nude4",
+                "thumbURL": "/img/drawing/cubist-nude4",
+                "desc": "Cubist Nude (4)",
+                "media": "Drawing",
+                "misc": [
+                    {
+                        "body": "Media: Charcoal on newsprint."
+                    },
+                    {
+                        "body": "Dimensions: 18\" x 24\"."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/drawing/cubist-nude5",
+                "thumbURL": "/img/drawing/cubist-nude5",
+                "desc": "Cubist Nude (5)",
+                "media": "Drawing",
+                "misc": [
+                    {
+                        "body": "Media: Charcoal, pencil on newsprint."
+                    },
+                    {
+                        "body": "Dimensions: 18\" x 24\"."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/drawing/cubist-nude6",
+                "thumbURL": "/img/drawing/cubist-nude6",
+                "desc": "Cubist Nude (6)",
+                "media": "Drawing",
+                "misc": [
+                    {
+                        "body": "Media: Charcoal, pencil on newsprint."
+                    },
+                    {
+                        "body": "Dimensions: 18\" x 24\"."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/drawing/sketch4",
+                "thumbURL": "/img/drawing/sketch4",
+                "desc": "Sketch (4)",
+                "media": "Drawing",
+                "misc": [
+                    {
+                        "body": "Charcoal on newsprint."
+                    },
+                    {
+                        "body": "Dimensions: 18\" x 24\"."
+                    }
+                ]
+            },
+            {
+                "thumbSrc": "/images/drawing/sketch5",
+                "thumbURL": "/img/drawing/sketch5",
+                "desc": "Sketch (5)",
+                "media": "Drawing",
+                "misc": [
+                    {
+                        "body": "Media: Charcoal on newsprint."
+                    },
+                    {
+                        "body": "Dimensions: 18\" x 24\"."
+                    }
+                ]
+            }
+        ]
+    }
+]
+
+
+

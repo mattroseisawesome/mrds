@@ -1,0 +1,47 @@
+[
+    { 
+      "category": "welcome", 
+      "header": "Welcome!", 
+    "paragraph": "Call me Matt Rose.  Some years ago - never mind how long precisely - I was an artist.  Now I'm just a sort-of-current-mostly-former artist who got really busy with life and only sporadically makes art anymore.  Since everybody needs a project, I decided why not put a very small collection online and let people gawk at it FOR FREE BECAUSE I'M SO GENEROUS.  I hear the Queen was thinking of knighting me for this heroic deed.  For real.  I'm  not even slightly joking a little bit.", 
+      "link": "",
+      "linkText": "",
+      "faIcon": "",
+      "image": "welcome" 
+    },
+    { 
+      "category": "penandink", 
+      "header": "Pen & Ink", 
+      "paragraph": "My favorite medium!  I always loved the precision needed to make a stipple, cross hatch, or Kirby dot mean something on the page.  Architecture, abstraction, and deconstructed bodies lie ahead...", 
+      "link": "/gallery/penandink",
+      "linkText": "View Pen & Ink",
+      "faIcon": "chevron-right",
+      "image": "hagia-sophia"
+    },
+    { 
+      "category": "painting", 
+      "header": "Painting", 
+      "paragraph": "Huzzah!  My second favorite medium!  While pen & ink is so precise, you get to be a lot looser (and coincidentally, fix mistakes easier) when using watercolor.  Mostly figure studies lie ahead...", 
+      "link": "/gallery/painting", 
+      "linkText": "View Painting",
+      "faIcon": "chevron-right",
+      "image": "sorrow"
+     },
+    { 
+      "category": "printmaking", 
+      "header": "Printmaking", 
+      "paragraph": "Look, I'm gonna be honest with you... Printmaking was not my strongest skill.  I think I did OK, all things considered, but you get to be the final judge here.  Just be nice, that Queen-knighting thing I said earlier was totally a lie.  Prints lie ahead...", 
+      "link": "/gallery/printmaking", 
+      "linkText": "View Printmaking",
+      "faIcon": "chevron-right",
+      "image": "pensive"
+    },
+    { 
+      "category": "drawing", 
+      "header": "Drawing", 
+      "paragraph": "Getting right down to it, drawing is the foundation to all my art listed here.  If it's pencil, charcoal, conte, or mixed media chances are it's in here.  Renderings, 5 minute studies, and various other drawings of middling quality lie ahead...", 
+      "link": "/gallery/drawing", 
+      "linkText": "View Drawing",
+      "faIcon": "chevron-right",
+      "image": "chaotic" 
+    }
+  ]

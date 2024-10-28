@@ -1,0 +1,32 @@
+[
+    {
+      "href": "//www.linkedin.com/in/matthew-rose-71219011",
+      "iconFamily": "fa-brands",
+      "iconName": "linkedin-in"
+    },
+    {
+      "href": "//teatime-of-the-dead.deviantart.com/",
+      "iconFamily": "fa-brands",
+      "iconName": "deviantart"
+    },
+    {
+      "href": "//www.instagram.com/karatedracula/",
+      "iconFamily": "fa-brands",
+      "iconName": "instagram"
+    },
+    {
+      "href": "//www.twitter.com/karatedracula",
+      "iconFamily": "fa-brands",
+      "iconName": "twitter"
+    },
+    {
+      "href": "//github.com/mattroseisawesome",
+      "iconFamily": "fa-brands",
+      "iconName": "github"
+    },
+    {
+      "href": "mailto:matt.rose.email@gmail.com?subject=mattrosedrawsstuff.com",
+      "iconFamily": "fa",
+      "iconName": "envelope"
+    }
+  ]

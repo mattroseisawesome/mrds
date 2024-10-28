@@ -1,0 +1,31 @@
+/***
+    Webfonts
+***/
+
+@font-face {
+    font-family: 'gentium_basicregular';
+    src: url('../src/webfonts/gentium/genbasr-webfont.woff2') format('woff2'), url('../src/webfonts/gentium/genbasr-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gentium_basicitalic';
+    src: url('../src/webfonts/gentium/genbasi-webfont.woff2') format('woff2'), url('../src/webfonts/gentium/genbasi-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gentium_basicbold';
+    src: url('../src/webfonts/gentium/genbasb-webfont.woff2') format('woff2'), url('../src/webfonts/gentium/genbasb-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'merriweatherblack';
+    src: url('../src/webfonts/merriweather/merriweather-black-webfont.woff2') format('woff2'), url('../src/webfonts/merriweather/merriweather-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
