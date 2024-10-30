@@ -1,11 +1,10 @@
-import React from 'react';
 import { Link, useLocation, useParams } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { faAngleLeft } from '@fortawesome/free-solid-svg-icons';
 library.add(faAngleLeft)
 
-export default function Image(props:any) {
+export default function Image() {
     const imageProps = useParams();
     const passedValues = useLocation();
     const passedValueState = passedValues;

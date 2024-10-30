@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import { useState } from 'react';
 import { NavLink } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { library } from '@fortawesome/fontawesome-svg-core';
@@ -6,7 +6,7 @@ import { faAsterisk, faBars } from '@fortawesome/free-solid-svg-icons';
 library.add(faAsterisk, faBars);
 
 
-const Toggle = (id:any) => {
+const Toggle = () => {
     const [open, setOpen] = useState(false);
 
 

@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import { Routes, Route, BrowserRouter } from 'react-router-dom';
 import Nav from './nav/nav';
 import MainBody from './mainBody.tsx';
@@ -9,7 +8,6 @@ import mainJSON from './json/main.json';
 import './App.scss'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
@@ -31,7 +29,7 @@ function App() {
               <Route 
                 path="/img/:folder/:imgId"
                 action={({ params }) => { return params }} 
-                element={<Image params />} 
+                element={<Image />} 
               />
           </Routes>
         </BrowserRouter>
