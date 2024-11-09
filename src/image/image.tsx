@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { Link, useLocation, useParams } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { library } from '@fortawesome/fontawesome-svg-core';
@@ -31,7 +32,7 @@ export default function Image() {
                         </picture>
                         <aside>
                             {
-                                miscellaneous.map( (item: any, i:any) => {
+                                miscellaneous.map( (item: any, i:number) => {
                                     return(
                                         <p key={`p-${i}`}>{ item.body }</p>
                                     );
