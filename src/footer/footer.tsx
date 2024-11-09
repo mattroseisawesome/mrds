@@ -1,5 +1,7 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { library } from '@fortawesome/fontawesome-svg-core';
+// import { faLinkedinIn, faDeviantart, faInstagram, faTwitter, faGithub } from '@fortawesome/free-brands-svg-icons';
 import { faLinkedinIn, faDeviantart, faInstagram, faTwitter, faGithub } from '@fortawesome/free-brands-svg-icons';
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 import footerLinks from '../json/footerLinks.json';
