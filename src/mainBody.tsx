@@ -1,4 +1,5 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
+import { NavLink } from 'react-router-dom';
 import mainBody from './json/mainBody.json';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { library } from '@fortawesome/fontawesome-svg-core';
@@ -16,7 +17,7 @@ export default function MainBody() {
                             const iconName:any = value.faIcon;
                             const displayExistingLink = () => {
                                 if (value.link) {
-                                    return <a href={value.link}>{value.linkText} <FontAwesomeIcon icon={[iconFamily, iconName]} /></a>;
+                                    return <NavLink to={value.link}>{value.linkText} <FontAwesomeIcon icon={[iconFamily, iconName]} /></NavLink>
                                 } else {
                                     return false;
                                 }
