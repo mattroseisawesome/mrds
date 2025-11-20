@@ -97,6 +97,21 @@
                 ]
             },
             {
+                "thumbSrc": "/images/penandink/angel-of-death-victorious",
+                "thumbURL": "/img/penandink/angel-of-death-victorious",
+                "desc": "Angel of Death Victorious",
+                "media": "Pen & Ink",
+                "misc": [
+                    {
+                        "body": "Media: 000 pen, .5mm ink pen and Sharpie on inking paper."
+                    },
+                    {
+                        "body": "Study of the Angel of Death Victorious (also known as the Haserot Angel) located in Lake View Cemetery, Cleveland Heights, Ohio."
+                    }
+                ]
+            },
+
+            {
                 "thumbSrc": "/images/penandink/guardian",
                 "thumbURL": "/img/penandink/guardian",
                 "desc": "Guardian",
